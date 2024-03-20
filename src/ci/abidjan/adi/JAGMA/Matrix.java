@@ -1,4 +1,4 @@
-package ci.abidjan.adi.JAGMAv2;
+package ci.abidjan.adi.JAGMA;
 
 import java.lang.reflect.Array;
 import java.math.BigDecimal;
